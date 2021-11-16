@@ -1,0 +1,58 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - DrLight (0.4.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Masonry (1.1.0)
+  - SocketRocket (0.5.1)
+  - WebViewJavascriptBridge (6.0.3)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - DrLight
+  - FMDB
+  - Masonry
+  - SocketRocket
+  - WebViewJavascriptBridge
+  - YYImage
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - DrLight
+    - FMDB
+    - Masonry
+    - SocketRocket
+    - WebViewJavascriptBridge
+    - YYImage
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  DrLight: b9782d87b12b10ee86489cd8ad809982fe69f2a5
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+
+PODFILE CHECKSUM: 95250328f74f72b9e616606ef074b3fda649b32d
+
+COCOAPODS: 1.9.3

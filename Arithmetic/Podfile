@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '11.0'
+
+target 'Arithmetic' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod 'DrLight'
+  pod 'FMDB'
+  pod 'AFNetworking'
+  pod 'WebViewJavascriptBridge'
+  pod 'YYImage'
+  pod 'SocketRocket'
+  pod 'Masonry'
+  
+  target 'ArithmeticUITests' do
+    
+    # Pods for testing
+  end
+
+end
